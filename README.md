@@ -1,6 +1,6 @@
 # ieeerec
 
-A simple UI displaying info in the form of cards, sourced from a spreadsheet
+A simple UI displaying hotel/resort info in the form of cards, sourced from a spreadsheet
 
 ## Getting Started
 
